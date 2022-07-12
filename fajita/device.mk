@@ -24,6 +24,3 @@ PRODUCT_COPY_FILES := \
 
 # Build generic Audio HAL
 PRODUCT_PACKAGES := audio.primary.fajita
-
-# Build generic lights HAL
-PRODUCT_PACKAGES += lights.fajita
